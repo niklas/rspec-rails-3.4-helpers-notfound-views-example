@@ -22,6 +22,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 
 group :test do
+  gem "ammeter"
   gem "rspec-rails", "~> 3.4.0"
 end
 
